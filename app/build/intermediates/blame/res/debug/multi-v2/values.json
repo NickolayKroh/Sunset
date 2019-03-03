@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AppProjects\\Sunset\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AppProjects\\Sunset\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,2,5,6,4",
+                        "startColumns": "1,1,1,1,1",
+                        "startOffsets": "94,52,176,217,134",
+                        "endColumns": "39,41,40,34,41",
+                        "endOffsets": "132,92,215,250,174"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,98,143,187,225",
+                        "endColumns": "42,44,43,37,44",
+                        "endOffsets": "93,138,182,220,265"
+                    }
+                },
+                {
+                    "source": "D:\\AppProjects\\Sunset\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,100",
+                        "endColumns": "43,52",
+                        "endOffsets": "95,148"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "270,314",
+                        "endColumns": "43,52",
+                        "endOffsets": "309,362"
+                    }
+                },
+                {
+                    "source": "D:\\AppProjects\\Sunset\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "367",
+                        "endLines": "10",
+                        "endColumns": "9",
+                        "endOffsets": "441"
+                    }
+                }
+            ]
+        }
+    ]
+}
